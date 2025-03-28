@@ -1,6 +1,8 @@
 # ⌨️ Typing Speed Trainer
 
 A Python-based typing speed test app built with `tkinter`, providing real-time feedback, live WPM/CPM stats, and smooth UI interactions. Great for practicing and improving typing speed and accuracy.
+![image](https://github.com/user-attachments/assets/5212abba-1d41-483c-8223-3b3b8603bd4d)
+
 
 ## 🚀 Features
 
