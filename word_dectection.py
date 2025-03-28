@@ -20,8 +20,4 @@ common_words = [
 def display_sentence():
     return random.sample(common_words, 100)
 
-def word_detection(word):
-    if word in common_words:
-        return True
 
-    return False
